@@ -1,2 +1,12 @@
 # EDA-e-Churn
-Códigos e modelos para análise exploratória de dados e modelo de machine learning para previsão de churn.
+Códigos para análise exploratória de dados e modelo de machine learning para previsão de churn.
+
+Estes notebooks são parte do trabalho de conclusão do curso de Data Science e Machine Learning da TERA, concluído em Dezembro de 2020.
+
+Esta parte do trabalho visava estruturar os dados para a criação de um modelo de machine learning que pudesse prever o churn de um aplicativo com base no histórico do app.
+
+Além desses três notebooks, o grupo produziu mais dois algoritmos de recomendação.
+
+As bases de dados não podem ser colocadas aqui por questões de confidencialidade, já que se trata de um aplicativo real, em produção.
+
+Mas fique à vontade para aproveitar os códigos que achar úteis e sugerir melhorias. :D
