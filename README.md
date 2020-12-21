@@ -10,3 +10,6 @@ Além desses três notebooks, o grupo produziu mais dois algoritmos de recomenda
 As bases de dados não podem ser colocadas aqui por questões de confidencialidade, já que se trata de um aplicativo real, em produção.
 
 Mas fique à vontade para aproveitar os códigos que achar úteis e sugerir melhorias. :D
+
+E, se quiser conhecer um pouco mais do trabalho, aqui está o link para um artigo no Medium que publicamos:
+https://marcusntrugilho.medium.com/vamos-para-a-festa-como-conectar-gamers-e-prever-o-churn-com-machine-learning-6c8bfa6db85b
